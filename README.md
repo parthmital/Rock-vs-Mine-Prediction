@@ -16,7 +16,3 @@ The goal is to train a binary classifier that distinguishes between metal (mines
 - 1 label column (`R` = Rock, `M` = Mine)
 
 Each instance is a set of sonar readings bounced off a surface — the reflections differ depending on whether the surface is metallic (mine) or rocky.
-
----
-
-## Project Structure
